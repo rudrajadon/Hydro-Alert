@@ -1,0 +1,13 @@
+{
+  "name": "hydro-alert",
+  "version": "1.0.0",
+  "description": "Hydro-Alert: A Flood Detection and Alerting System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
